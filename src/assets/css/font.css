@@ -1,0 +1,151 @@
+/* -----------------Vazir--------------------- */
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Regular-FD.eot");
+  src: url("../fonts/vazir/Vazir-Regular-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Regular-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Regular-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Regular-FD.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Bold-FD.eot");
+  src: url("../fonts/vazir/Vazir-Bold-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Bold-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Bold-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Bold-FD.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Black-FD.eot");
+  src: url("../fonts/vazir/Vazir-Black-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Black-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Black-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Black-FD.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Medium-FD.eot");
+  src: url("../fonts/vazir/Vazir-Medium-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Medium-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Medium-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Medium-FD.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Light-FD.eot");
+  src: url("../fonts/vazir/Vazir-Light-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Light-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Light-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Light-FD.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url("../fonts/vazir/Vazir-Thin-FD.eot");
+  src: url("../fonts/vazir/Vazir-Thin-FD.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/vazir/Vazir-Thin-FD.woff2") format("woff2"),
+    url("../fonts/vazir/Vazir-Thin-FD.woff") format("woff"),
+    url("../fonts/vazir/Vazir-Thin-FD.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+/* -----------------IRAN sans--------------------- */
+@font-face {
+  font-family: IRANSans;
+  src: url("../fonts/iransans/IRANSansWeb.eot");
+  src: url("../fonts/iransans/IRANSansWeb.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iransans/IRANSansWeb.woff2") format("woff2"),
+    url("../fonts/iransans/IRANSansWeb.woff") format("woff"),
+    url("../fonts/iransans/IRANSansWeb.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: IRANSans;
+  src: url("../fonts/iransans/IRANSansWeb_Bold.eot");
+  src: url("../fonts/iransans/IRANSansWeb_Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iransans/IRANSansWeb_Bold.woff2") format("woff2"),
+    url("../fonts/iransans/IRANSansWeb_Bold.woff") format("woff"),
+    url("../fonts/iransans/IRANSansWeb_Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: IRANSans;
+  src: url("../fonts/iransans/IRANSansWeb_Medium.eot");
+  src: url("../fonts/iransans/IRANSansWeb_Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iransans/IRANSansWeb_Medium.woff2") format("woff2"),
+    url("../fonts/iransans/IRANSansWeb_Medium.woff") format("woff"),
+    url("../fonts/iransans/IRANSansWeb_Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: IRANSans;
+  src: url("../fonts/iransans/IRANSansWeb_Light.eot");
+  src: url("../fonts/iransans/IRANSansWeb_Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iransans/IRANSansWeb_Light.woff2") format("woff2"),
+    url("../fonts/iransans/IRANSansWeb_Light.woff") format("woff"),
+    url("../fonts/iransans/IRANSansWeb_Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: IRANSans;
+  src: url("../fonts/iransans/IRANSansWeb_UltraLight.eot");
+  src: url("../fonts/iransans/IRANSansWeb_UltraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/iransans/IRANSansWeb_UltraLight.woff2") format("woff2"),
+    url("../fonts/iransans/IRANSansWeb_UltraLight.woff") format("woff"),
+    url("../fonts/iransans/IRANSansWeb_UltraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+/* -----------------IRAN sansDN--------------------- */
+@font-face {
+  font-family: irsDN;
+  src: url("../fonts/iransansDN/IRANSansDN.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: irsDN;
+  src: url("../fonts/iransansDN/IRANSansDNFaNum-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: irsDN;
+  src: url("../fonts/iransansDN/IRANSansDN_Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* ------------------Icons----------------------- */
+@font-face {
+  font-family: fonticon;
+  src: url("../fonts/fonticon/fonticon.eot");
+  src: url("../fonts/fonticon/fonticon.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/fonticon/fonticon.woff2") format("woff2"),
+    url("../fonts/fonticon/fonticon.woff") format("woff"),
+    url("../fonts/fonticon/fonticon.ttf") format("truetype");
+}

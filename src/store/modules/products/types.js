@@ -1,0 +1,1 @@
+export const SET_PRODUCTS_MUTATION = 'SET_PRODUCTS'
