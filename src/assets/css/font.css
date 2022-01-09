@@ -1,4 +1,4 @@
-/* -----------------Vazir--------------------- */
+/* //-----------------Vazir--------------------- */
 @font-face {
   font-family: Vazir;
   src: url("../fonts/vazir/Vazir-Regular-FD.eot");
@@ -65,8 +65,8 @@
   font-weight: 100;
   font-style: normal;
 }
-/* -----------------IRAN sans--------------------- */
-@font-face {
+/* //-----------------IRAN sans--------------------- */
+/* @font-face {
   font-family: IRANSans;
   src: url("../fonts/iransans/IRANSansWeb.eot");
   src: url("../fonts/iransans/IRANSansWeb.eot?#iefix")
@@ -120,9 +120,9 @@
     url("../fonts/iransans/IRANSansWeb_UltraLight.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
-}
-/* -----------------IRAN sansDN--------------------- */
-@font-face {
+} */
+/* //-----------------IRAN sansDN--------------------- */
+/* @font-face {
   font-family: irsDN;
   src: url("../fonts/iransansDN/IRANSansDN.ttf") format("truetype");
   font-weight: normal;
@@ -139,8 +139,8 @@
   src: url("../fonts/iransansDN/IRANSansDN_Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
-}
-/* ------------------Icons----------------------- */
+} */
+/* //------------------Icons----------------------- */
 @font-face {
   font-family: fonticon;
   src: url("../fonts/fonticon/fonticon.eot");

@@ -1,5 +1,6 @@
 * {
   font-family: IRANSans, Vazir;
+  direction: rtl;
 }
 
 .btn--boxshadow {
@@ -761,7 +762,6 @@ html {
 body,
 html {
   font-family: IRANSans, Vazir;
-  direction: rtl;
 }
 
 body {
